@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.env
+.venv
+.env_test
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Testing
+.pytest_cache/
+.mypy_cache/
+
+# Project Temp
+verify_config.py
+verify_config_v2.py
+test_pydantic.py
+test_pydantic_env.py
+test_pydantic_env_fixed.py
+test_env_loading.py
+tmp_calc_core/
+tmp_profile_readme/
